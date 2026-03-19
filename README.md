@@ -9,8 +9,8 @@ A portable terminal environment setup script
 - cross-platform (apt + brew)
 - Docker support
 
-## Install 
-# test like a stranger, please don't take my word for everything! (same goes for everyone). 
+# Install 
+## test like a stranger, be safe! (seriously). 
 ```bash
 git clone https://github.com/cipherpig/orange-env.git
 cd orange-env
